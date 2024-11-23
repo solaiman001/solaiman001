@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Solaiman Hossain</h1>
-<h3>I’m a Software Engineer Trainee at BJIT, specializing in Salesforce Development. With a strong foundation in backend development, competitive programming, and machine learning, I thrive on solving challenging problems and delivering impactful solutions.</h3>
+- 💻 **Software Engineer Trainee** at **BJIT**, specializing in **Salesforce Development**.
+- 🔧 Strong foundation in **backend development**, **competitive programming**, and **machine learning**.
+- 🧩 Thrive on solving **challenging problems** and delivering **impactful solutions**.
+- 🚀 Passionate about learning new technologies and contributing to innovative projects.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsnto&label=Profile%20views&color=0e75b6&style=flat" alt="imsnto" /> </p>
 
@@ -8,7 +11,7 @@
 <p align="left"> <a href="https://twitter.com/imsntoo" target="blank"><img src="https://img.shields.io/twitter/follow/imsntoo?logo=twitter&style=for-the-badge" alt="imsntoo" /></a> </p>
 
 - 🌱 Currently learning **Salesforce** to enhance my CRM skills and explore the power of cloud solutions.
-
+- 💬 Ask me about **Salesforce, CRM, Django, React**
 
 - 📫 How to reach me **solaiman.hossain@bjitacademy.com**
 
