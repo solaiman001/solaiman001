@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/imsntoo" target="blank"><img src="https://img.shields.io/twitter/follow/imsntoo?logo=twitter&style=for-the-badge" alt="imsntoo" /></a> </p>
 
-- 🌱 Currently learning **Salesforce** to enhance my CRM skills and explore the power of cloud solutions. Let's connect and grow together!
+- 🌱 Currently learning **Salesforce** to enhance my CRM skills and explore the power of cloud solutions.
 
 
 - 📫 How to reach me **solaiman.hossain@bjitacademy.com**
