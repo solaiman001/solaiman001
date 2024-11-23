@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solaiman Hossain</h1>
-<h3 align="center">A passionate competitive programmer </h3>
+<h3>I’m a Software Engineer Trainee at BJIT, specializing in Salesforce Development. With a strong foundation in backend development, competitive programming, and machine learning, I thrive on solving challenging problems and delivering impactful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsnto&label=Profile%20views&color=0e75b6&style=flat" alt="imsnto" /> </p>
 
